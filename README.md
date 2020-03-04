@@ -10,4 +10,6 @@ Please create an issue [here](issues) if:
 - want to ask about features that will be included in the project
 - more
 
+If the issue you create result in code we will be able to link this issue to the code by using your issue number in comments and discussion. By doing this, you will be kept in the loop if there is progress on the issue.
+
 We look forward to hearing from the community!
