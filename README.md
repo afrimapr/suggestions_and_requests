@@ -1,6 +1,6 @@
 # _afrimapr_ Suggestions and Requests Repo
 
-This repository was created with the sole purpose of harvesting issues that is related to the whole project or to an aspect of the project that doesn't have a repo in Github yet.
+This repository was created with the sole purpose of harvesting issues that is related to the whole project or to an aspect of the project that doesn't have a repo in Github yet [1][1].
 
 Please create an issue [here](https://github.com/afrimapr/suggestions_and_requests/issues) if you:
 
@@ -29,3 +29,5 @@ If the issue you create result in code we will be able to link this issue to the
 - If your issue relates to an existing repository e.g. our website or existing packages, please create the issue in the relevant repository rather than here
 
 We look forward to hearing from the community!
+
+[1]: https://help.github.com/en/github/creating-cloning-and-archiving-repositories/creating-an-issues-only-repository
