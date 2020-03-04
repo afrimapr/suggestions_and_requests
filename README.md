@@ -25,6 +25,8 @@ If the issue you create result in code we will be able to link this issue to the
   - feature suggestion
   - question
   - use case
+  - training materials
+  
 - Be patient (our team is small, we'll try to respond as soon as possible)
 - If your issue relates to an existing repository e.g. our website or existing packages, please create the issue in the relevant repository rather than here
 
